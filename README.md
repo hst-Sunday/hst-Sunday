@@ -41,15 +41,15 @@
 ### My Activities
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C899%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C912%20hrs%201%20min-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 952 Contributions in the Year 2026
+> 🏆 953 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,18 +62,18 @@
 ```text
 🌞 Morning                783 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
 🌆 Daytime                1439 commits        ███████░░░░░░░░░░░░░░░░░░   26.56 % 
-🌃 Evening                1528 commits        ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-🌙 Night                  1667 commits        ████████░░░░░░░░░░░░░░░░░   30.77 % 
+🌃 Evening                1528 commits        ███████░░░░░░░░░░░░░░░░░░   28.20 % 
+🌙 Night                  1668 commits        ████████░░░░░░░░░░░░░░░░░   30.79 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   726 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Monday                   727 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
 Tuesday                  817 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
 Wednesday                806 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Thursday                 828 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Thursday                 828 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
 Friday                   960 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Saturday                 723 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Saturday                 723 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
 Sunday                   557 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
 ```
 
@@ -84,24 +84,24 @@ Sunday                   557 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Swift                    38 hrs 36 mins      █████████████████░░░░░░░░   66.73 % 
-Markdown                 8 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Other                    3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Bash                     2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-JSON                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Swift                    43 hrs 32 mins      █████████████████░░░░░░░░   67.29 % 
+Markdown                 8 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Other                    5 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+JSON                     2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Bash                     2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 🔥 Editors: 
-Cursor                   57 hrs 51 mins      █████████████████████████   100.00 % 
+Cursor                   64 hrs 42 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PuzzleWall               16 hrs 31 mins      ███████░░░░░░░░░░░░░░░░░░   28.56 % 
-SunLight                 13 hrs 24 mins      ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
-Input                    8 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-ASC Lens                 5 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Health Data Export       5 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+PuzzleWall               16 hrs 19 mins      ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+SunLight                 13 hrs 24 mins      █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+SnapFrame                11 hrs 32 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+Input                    6 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+ASC Lens                 5 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
 
 💻 Operating System: 
-Mac                      57 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      64 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -121,7 +121,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hst-Sunday/hst-Sunday/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 18:52:17 UTC
+ Last Updated on 26/07/2026 18:57:01 UTC
 <!--END_SECTION:waka-->
 
 ### My GitHub Contributions
