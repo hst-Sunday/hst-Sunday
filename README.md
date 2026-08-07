@@ -41,9 +41,9 @@
 ### My Activities
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C803%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C827%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-883%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-911%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -51,7 +51,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 979 Contributions in the Year 2026
+> 🏆 983 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,21 +62,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                783 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-🌆 Daytime                1448 commits        ███████░░░░░░░░░░░░░░░░░░   26.59 % 
-🌃 Evening                1536 commits        ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-🌙 Night                  1678 commits        ████████░░░░░░░░░░░░░░░░░   30.82 % 
+🌞 Morning                784 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+🌆 Daytime                1448 commits        ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+🌃 Evening                1536 commits        ███████░░░░░░░░░░░░░░░░░░   28.19 % 
+🌙 Night                  1680 commits        ████████░░░░░░░░░░░░░░░░░   30.84 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   729 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Tuesday                  824 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Wednesday                808 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Thursday                 836 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Friday                   963 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Saturday                 727 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Sunday                   558 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Monday                   729 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Tuesday                  824 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Wednesday                808 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Thursday                 837 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Friday                   964 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Saturday                 728 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Sunday                   558 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
 ```
 
 
@@ -86,49 +86,46 @@ Sunday                   558 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Swift                    43 hrs 25 mins      ████████████████░░░░░░░░░   64.01 % 
-Other                    10 hrs 40 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-TypeScript               5 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Markdown                 4 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-JSON                     1 hr 14 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Swift                    37 hrs 57 mins      █████████████████░░░░░░░░   68.22 % 
+Other                    9 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Markdown                 3 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+TypeScript               1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+YAML                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 🔥 Editors: 
-Cursor                   67 hrs 50 mins      █████████████████████████   99.98 % 
-Grok Build               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Cursor                   55 hrs 38 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-subman                   16 hrs 43 mins      ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-ASC Lens                 15 hrs 28 mins      ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
-RunO                     10 hrs 59 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-SnapFrame                6 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-draft-sync               5 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+subman                   14 hrs 3 mins       ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+RunO                     12 hrs 17 mins      ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+SnapFrame                12 hrs 4 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+ImageSeal                5 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+PuzzleWall               5 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
 
 💻 Operating System: 
-Mac                      67 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      55 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 65 hrs 24 mins (96.38%)
+⏱ AI Coding Time: 53 hrs 35 mins (96.32%)
 
-✍️ 64,911 lines written by AI, 414 lines written by hand (99.37% AI-written)
+✍️ 48,228 lines written by AI, 253 lines written by hand (99.48% AI-written)
 
-🔤 1,877,577,862 Input Tokens, 6,120,107 Output Tokens
+🔤 1,569,687,569 Input Tokens, 4,951,490 Output Tokens
 
-💵 $8879.70 Estimated AI Cost This Week
+💵 $6422.23 Estimated AI Cost This Week
 
-🧠 66 AI Sessions, 406 AI Prompts
+🧠 57 AI Sessions, 318 AI Prompts
 
-GPT                      69,354 lines        █████████████████████████   99.10 % 
-Grok                     530 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Composer                 97 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+GPT                      51,689 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.37% of written lines came from AI
-📝 Concise Prompter — average 266 characters per prompt
+🤖 AI-Driven — 99.48% of written lines came from AI
+📝 Concise Prompter — average 296 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.69% of changed lines were hand-edited
+🚀 High AI Trust — 0.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -148,7 +145,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hst-Sunday/hst-Sunday/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 19:21:16 UTC
+ Last Updated on 07/08/2026 18:41:16 UTC
 <!--END_SECTION:waka-->
 
 ### My GitHub Contributions
